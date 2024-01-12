@@ -1,4 +1,4 @@
-### Hi there 👋
+Hola bienvenido a mi perfil, Soy estudiante de ingenieria de sistemas 
 
 <!--
 **FrancoLujan/FrancoLujan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

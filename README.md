@@ -5,35 +5,35 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&text=Un%20DESARROLLADOR%20con%20buenas%20SOFT%20KILLS&fontSize=28&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=30&section=header&reversal=false&text=Un%20DESARROLLADOR%20con%20buenas%20SOFT%20KILLS&fontSize=28&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
 </div>
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&text=Un%20DESARROLLADOR%20que%20CREA%20SISTEMAS%20QUE%20NO%20EXPLOTAN&fontSize=28&fontColor=FF6347&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=708020"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=30&section=header&reversal=false&text=Un%20DESARROLLADOR%20que%20CREA%20SISTEMAS%20QUE%20NO%20EXPLOTAN&fontSize=28&fontColor=FF6347&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=708020"  />
 </div>
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&text=Un%20DESARROLLADOR%20que%20EVOLUCIONA%20SUS%20HABILIDADES&fontSize=28&fontColor=87CEFA&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=696969"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=30&section=header&reversal=false&text=Un%20DESARROLLADOR%20que%20EVOLUCIONA%20SUS%20HABILIDADES&fontSize=28&fontColor=87CEFA&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=696969"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="55" alt="spring logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="java logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css3 logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo"  />
+  <img width="120" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+  <img width="120" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+  <img width="120" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img width="120" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+  <img width="120" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
 </div>
 
 ###
@@ -54,7 +54,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=footer&reversal=false&text=Crear%20sistemas%20es%20complejo%20pero%20si%20me%20tienes%20en%20tu%20equipo%20tiende%20a%20ser%20menos%20complejo%20y%20hasta%20divertido.&fontSize=17&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=20&section=footer&reversal=false&text=Crear%20sistemas%20es%20complejo%20pero%20si%20me%20tienes%20en%20tu%20equipo%20tiende%20a%20ser%20menos%20complejo%20y%20hasta%20divertido.&fontSize=17&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
 </div>
 
 ###

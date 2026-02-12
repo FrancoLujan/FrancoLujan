@@ -5,19 +5,19 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=30&section=header&reversal=false&text=Un%20DESARROLLADOR%20con%20buenas%20SOFT%20KILLS&fontSize=28&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=30&section=header&reversal=false&text=Un%20DESARROLLADOR%20con%20buenas%20SOFT%20KILLS&fontSize=19&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
 </div>
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=30&section=header&reversal=false&text=Un%20DESARROLLADOR%20que%20CREA%20SISTEMAS%20QUE%20NO%20EXPLOTAN&fontSize=28&fontColor=FF6347&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=708020"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=30&section=header&reversal=false&text=Un%20DESARROLLADOR%20que%20CREA%20SISTEMAS%20QUE%20NO%20EXPLOTAN&fontSize=19&fontColor=FF6347&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=708020"  />
 </div>
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=30&section=header&reversal=false&text=Un%20DESARROLLADOR%20que%20EVOLUCIONA%20SUS%20HABILIDADES&fontSize=28&fontColor=87CEFA&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=696969"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=30&section=header&reversal=false&text=Un%20DESARROLLADOR%20que%20EVOLUCIONA%20SUS%20HABILIDADES&fontSize=19&fontColor=87CEFA&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=696969"  />
 </div>
 
 ###
@@ -53,14 +53,9 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=20&section=footer&reversal=false&text=Crear%20sistemas%20es%20complejo%20pero%20si%20me%20tienes%20en%20tu%20equipo%20tiende%20a%20ser%20menos%20complejo%20y%20hasta%20divertido.&fontSize=17&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
-</div>
-
-###
-
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/0d/e9/79/0de97945dc3e12660a6b7c5da53be448.gif"  />
 </div>
 
+###
 ###

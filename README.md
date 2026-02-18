@@ -5,7 +5,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=30&section=header&reversal=false&text=Un%20DESARROLLADOR%20con%20buenas%20SOFT%20KILLS&fontSize=19&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=30&section=header&reversal=false&text=Un%20DESARROLLADOR%20con%20buenas%20SOFT%20SKILLS&fontSize=19&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
 </div>
 
 ###

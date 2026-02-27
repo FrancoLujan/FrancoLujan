@@ -1,4 +1,4 @@
-<h1 align="center">Hola mi Nombe es Franco Lujan👋 </h1>
+<h1 align="center">Hola mi Nombre es Franco Lujan👋 </h1>
 <h3 align="center">🚀 Desarrollador back-end 🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFkYTQ0aTlhdHQwNHBjdWxkdGE3Y3Fjb3lxbWczNW9lZ21zaHNoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />

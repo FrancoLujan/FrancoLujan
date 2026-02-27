@@ -1,57 +1,22 @@
-<br clear="both">
+<h1 align="center">Hola mi Nombe es Franco Lujan👋 </h1>
+<h3 align="center">🚀 Desarrollador back-end 🚀</h3>
+<div>
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFkYTQ0aTlhdHQwNHBjdWxkdGE3Y3Fjb3lxbWczNW9lZ21zaHNoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+<div align="left"> 
+  <h3> 👨🏻‍💻 Sobre mi </h3>
 
-<h1 align="center">Hola mi nombre es Franco Lujan desarrollador back-end</h1>
-
-###
+  - 🤔 &nbsp; Me gusta gusta crear sistema que no exploten y que sean escalables   .
+  - 🎓 &nbsp; Actualmente estoy estudiando ing.sistemas y un a tecnicatura desarrollo de software.
+  - 💼 &nbsp; Actualmente estoy trabajando en proyectos unicamente back-ends.
+  - 🌱 &nbsp; Estoy aprendiendo sobre diseño de sistemas y en su implementacion.  
+</div> 
+</div>
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=30&section=header&reversal=false&text=Un%20DESARROLLADOR%20con%20buenas%20SOFT%20SKILLS&fontSize=19&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
-</div>
+  <h3> 💻 Lenguajes y Herramientas </h3>
+  <p>
+   <img src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000"   width="50"><img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+  <p>
+</div> 
 
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=30&section=header&reversal=false&text=Un%20DESARROLLADOR%20que%20CREA%20SISTEMAS%20QUE%20NO%20EXPLOTAN&fontSize=19&fontColor=FF6347&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=708020"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=30&section=header&reversal=false&text=Un%20DESARROLLADOR%20que%20EVOLUCIONA%20SUS%20HABILIDADES&fontSize=19&fontColor=87CEFA&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=696969"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo"  />
-  <img width="120" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
-  <img width="120" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img width="120" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="francolujann1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/franco-martin-lujan-56069223b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<img align="left" height="200" src="https://breathecode.herokuapp.com/v1/media/file/workshop-tips-gif"  />
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/0d/e9/79/0de97945dc3e12660a6b7c5da53be448.gif"  />
-</div>
-
-###
-###
+⭐️ De [Franco Lujan](https://github.com/FrancoLujan)

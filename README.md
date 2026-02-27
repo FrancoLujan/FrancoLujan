@@ -6,7 +6,7 @@
   <h3> 👨🏻‍💻 Sobre mi </h3>
 
   - 🤔 &nbsp; Me gusta gusta crear sistema que no exploten y que sean escalables   .
-  - 🎓 &nbsp; Actualmente estoy estudiando ing.sistemas y un a tecnicatura desarrollo de software.
+  - 🎓 &nbsp; Actualmente estoy estudiando ing.sistemas y una tecnicatura desarrollo de software.
   - 💼 &nbsp; Actualmente estoy trabajando en proyectos unicamente back-ends.
   - 🌱 &nbsp; Estoy aprendiendo sobre diseño de sistemas y en su implementacion.  
 </div> 
